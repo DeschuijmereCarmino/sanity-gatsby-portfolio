@@ -20,13 +20,13 @@ export default {
                 {
                   buildHookId: '60ef02f543f9bc5d5670f035',
                   title: 'Sanity Studio',
-                  name: 'sanity-gatsby-portfolio-studio-o4ahveaf',
+                  name: 'carmino-sanity-gatsby-portfolio-studio',
                   apiId: 'd1767c08-daf2-4d1a-bc7a-9a2cd2d77608'
                 },
                 {
                   buildHookId: '60ef02f6b8eb205bbec450bc',
                   title: 'Portfolio Website',
-                  name: 'sanity-gatsby-portfolio-web-afsq81o3',
+                  name: 'carmino-deschuijmere',
                   apiId: 'f3241711-d47c-4c3a-9da1-c9b82684a32a'
                 }
               ]
@@ -41,7 +41,7 @@ export default {
           },
           {
             title: 'Frontend',
-            value: 'https://sanity-gatsby-portfolio-web-afsq81o3.netlify.app',
+            value: 'https://carmino-deschuijmere.netlify.app',
             category: 'apps'
           }
         ]
